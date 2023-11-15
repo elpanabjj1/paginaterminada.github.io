@@ -1,0 +1,181 @@
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 5px 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: url(https://i.imgur.com/gFDnXoe.png);
+    background-size: 100% 100%;
+}
+h1 {
+    font-size: 36px;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+.article1{
+    border: none;
+    display: inline-block;
+}
+
+h2 {
+    font-size: 24px;
+
+}
+
+.map-container {
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-top: 00px;
+    background-image: url(https://i.imgur.com/5G2vHuA.png);
+    background-size: cover;
+    background-repeat: no-repeat;  
+
+}
+
+.map-item {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    background-color: white;
+    text-align: center;
+}
+.map-container2 {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-top: 00px;
+
+}
+.map-item img {
+    width: 75%;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 0 0 20px rgba(211, 47, 47, 3);
+    border-radius: 15px;
+}
+
+p {
+    font-size: 22px;
+    text-align: center;
+}
+.image-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.logo {
+    width: 200px; /* Ajusta el tamaño del logo según tus necesidades */
+}
+
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 250px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.logo1{
+    width: 70px;
+    border-radius: 50%;
+}
+#foot{
+  border-top:solid 2px;
+  background: url("https://i.imgur.com/gFDnXoe.png") no-repeat center;
+  background-size: 100%;
+  padding: 20px 20px 50px;
+  text-align: center;
+  margin: 0% 0px 0px 0px;
+}
+.footer-icos {
+  margin: 20px 0;
+  color: #ddd;
+}
+.footer-logo img{
+  width: 250px;
+  margin: 40px 0;
+}
+footer .other li {
+  letter-spacing: 0;
+  background: url("https://i.imgur.com/4NllnnX.png") no-repeat right center;
+  background-size: 30px;
+  padding: 5px 28px 5px 14px;
+  display: inline-block;
+}
+footer .other li a {
+  text-decoration: none;
+  font-size: 12px;
+  padding: 4px 0;
+  position: relative;
+  color: rgb(168, 166, 166);
+}
+p{
+  color: rgb(168, 166, 166);
+}
+.tdm-social-item-wrap {
+  display: inline-block;
+
+}
+.tdi_131 .tdm-social-item {
+  width: 39.2px;
+  height: 39.2px;
+  margin: 7px 14px 7px 0;
+}
+.tdm-social-wrappertds-social4tdi_131{
+  filter: hue-rotate(150deg);
+}
+form {
+  background-color: transparent;
+  padding: 0px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  label {
+  display: block;
+  margin-bottom: 8px;
+  }
+  
+  input, textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 16px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  }
+  
+  button {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  }
+  
+  button:hover {
+  background-color: #45a049;
+  }
